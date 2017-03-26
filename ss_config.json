@@ -1,0 +1,10 @@
+{
+	"server": "47.90.91.238",
+	"server_port": 443,
+	"local_address":"192.168.1.124",
+	"local_port":"1080",
+      	"password": "jjyy_1984",
+      	"method": "aes-256-cfb",
+	"verbose":2,
+	"timeout":30
+}
